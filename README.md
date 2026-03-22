@@ -4,10 +4,11 @@
 To develop a convolutional deep neural network (CNN) for image classification and to verify the response for new images.
 
 ##   PROBLEM STATEMENT AND DATASET
-Include the Problem Statement and Dataset.
+Image classification is a fundamental task in computer vision where images are assigned to predefined classes. The objective of this project is to develop a Convolutional Neural Network (CNN) for image classification and to verify its performance by predicting and analyzing the response for new unseen images using appropriate evaluation metrics.
 
 ## Neural Network Model
-Include the neural network model diagram.
+
+<img width="998" height="698" alt="image" src="https://github.com/user-attachments/assets/1644c565-424d-428c-975e-a8337ead2c39" />
 
 ## DESIGN STEPS
 STEP 1: Load and Preprocess Data
@@ -199,24 +200,18 @@ predict_image(model, image_index=80, dataset=test_dataset)
 ```
 
 ### OUTPUT
+<img width="464" height="274" alt="image" src="https://github.com/user-attachments/assets/eeb535e5-fd6a-4839-8d9a-e6520103749b" />
 
 ## Training Loss per Epoch
+<img width="938" height="841" alt="image" src="https://github.com/user-attachments/assets/997cea40-5e20-40dc-87a5-0d7393e6b35b" />
 
-
-Include the Training Loss per epoch
-
-## Confusion Matrix
-
-Include confusion matrix here
 
 ## Classification Report
-Include classification report here
 
 ### New Sample Data Prediction
-Include your sample input and output here
+
+<img width="686" height="410" alt="image" src="https://github.com/user-attachments/assets/51978e5a-836f-46bc-81ca-9af33a39fbcc" />
 
 ## RESULT
-Include your result here
+Thus, To develop a convolutional deep neural network (CNN) for image classification and to verify the response for new images is executed and verified successfully.
 
-
-![image alt](https://github.com/Khajarasool27/Develop-a-Convolutional-Deep-Neural-Network-for-Image-Classification/blob/da057c8e97224401079190b0d4abd90681ff861e/IMG-20250320-WA0007%5B1%5D.jpg)
